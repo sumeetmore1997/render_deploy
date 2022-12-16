@@ -1,4 +1,5 @@
 {
+    "jiodata":{
     "fruitsveg":[
     {
         "img": "https://www.jiomart.com/images/product/150x150/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-0-202205180139.jpg",
@@ -1869,4 +1870,5 @@
         "uom": ""
     }
 ]
+    }
 }
